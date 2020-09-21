@@ -1,3 +1,3 @@
-*coding
-*organic chemistry
-*research lab
+- coding
+- organic chemistry
+- research lab
